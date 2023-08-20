@@ -30,6 +30,5 @@ AS A developer I WANT to create notes or code snippets with or without an intern
 
 ## How to run application
 1. npm install
-2. npm run start:dev
-3. npm run start
-4. Open http://localhost:3000/
+2. npm run start:dev or npm run start to start up the application locally
+3. Open http://localhost:3000/

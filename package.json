@@ -13,7 +13,7 @@
     "build": "cd client && npm run build",
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm start",
-    "heroku-prebuild": "npm install --dev && cd client && npm install --dev && cd ../server && npm install --dev"
+    "heroku-prebuild": "npm install --dev"
   },
   "keywords": [],
   "author": "",

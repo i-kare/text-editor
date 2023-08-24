@@ -4,8 +4,7 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "server": "nodemon server.js --ignore client",
-        "heroku-prebuild": "npm install --dev"
+        "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
     "author": "",

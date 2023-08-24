@@ -37,3 +37,5 @@ AS A developer I WANT to create notes or code snippets with or without an intern
 ## Deployed Application Website
 https://just-another-text-edit-p-w-a-af61545688da.herokuapp.com/
 
+## Screenshot of Application
+![JATE](./assets/app_screenshot.png)

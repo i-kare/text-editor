@@ -32,5 +32,8 @@ AS A developer I WANT to create notes or code snippets with or without an intern
 1. npm install
 2. npm run start:dev or npm run start to start up the application locally
 3. Open http://localhost:3000/
+4. Use text editor
 
 ## Deployed Application Website
+https://just-another-text-edit-p-w-a-af61545688da.herokuapp.com/
+
